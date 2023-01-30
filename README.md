@@ -21,5 +21,5 @@
 <h5>ON MOBILE </h5>
 
 <h3> ONLINE LINK </h3>
-<h6>[NETLIFY :-   CLICK ME](https://movlit-krishjoshi.netlify.app/)</h6>
-<h6>[FIREBASE :-  CLICK ME](https://movlit-c793b.web.app/)</h6>
+[NETLIFY :-   CLICK ME](https://movlit-krishjoshi.netlify.app/)
+[FIREBASE :-  CLICK ME](https://movlit-c793b.web.app/)
