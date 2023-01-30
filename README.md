@@ -14,3 +14,12 @@
 <p>Originals - In our endeavour to drive meaningful engagement with our audience, Movlit is investing in generating content keeping in mind the sentiments and attitudes of our consumers and has enjoyed great success with original programming content such as On Air with AIB, M Bole Toh, One Tip One Hand.
 
 </p>
+
+<h3>VIDEO</h3>
+<h5>ON DESKTOP </h5>
+
+<h5>ON MOBILE </h5>
+
+<h3> ONLINE LINK </h3>
+<h6>NETLIFY :- <span herf = "https://movlit-krishjoshi.netlify.app/"> CLICK ME </span> </h6>
+<h6>FIREBASE :- <span herf = "https://movlit-c793b.web.app/"> CLICK ME </span> </h6>
